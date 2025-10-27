@@ -19,15 +19,12 @@ Sou um desenvolvedor e estudante de tecnologia, apaixonado por criar soluções 
 
 ### 📊 Estatísticas do GitHub
 
-[![Estatísticas de ArthurZ06 no GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/ArthurZ06)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZ06&layout=compact&langs_count=7&theme=dark)](https://github.com/ArthurZ06)
+![Estatísticas de ArthurZ06 no GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZ06&layout=compact&langs_count=7&theme=dark)
 
 ---
 
 ### 📫 Contate-me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurnicolas30@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nicolas-1091a4265/)
-
-
+<a href="mailto:arthurnicolas30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-nicolas-1091a4265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
