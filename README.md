@@ -1,21 +1,29 @@
-Hi, I'm Arthur programmer
+# Olá, eu sou o Arthur! 👋
 
-<!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período, -->
-<!-- mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
+Sou um desenvolvedor e estudante de tecnologia, apaixonado por transformar ideias em realidade através do código. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web com Python, JavaScript, HTML e CSS.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark)
+- 🌱 Atualmente estou aprendendo **Sobre alguns conceitos de rede na faculdade**
+- 🔭 Estou trabalhando no meu projeto **project_car**
+- 📫 Como me encontrar: **arthurnicolas30@gmail.com**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="ArthurZ06-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ArthurZ06-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ArthurZ06-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ArthurZ06-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
 
-##
+### 🛠️ Tecnologias e Ferramentas
 
-<div> 
-  <a href = "mailto:arthurnicolas30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-nicolas-1091a4265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+---
+
+### 📫 Contate-me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
