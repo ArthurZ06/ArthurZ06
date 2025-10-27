@@ -1,9 +1,9 @@
 # Olá, eu sou o Arthur! 👋
 
-Sou um desenvolvedor e estudante de tecnologia, apaixonado por transformar ideias em realidade através do código. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web com Python, JavaScript, HTML e CSS.
+Sou um desenvolvedor e estudante de tecnologia, apaixonado por criar soluções e transformar ideias em código. Atualmente, estou focado no ecossistema Web, trabalhando com as tecnologias que mais gosto.
 
-- 🌱 Atualmente estou aprendendo **Sobre alguns conceitos de rede na faculdade**
-- 🔭 Estou trabalhando no meu projeto **project_car**
+- 🌱 Atualmente estou aprendendo **[Coloque aqui o que você está estudando, ex: React, Django, etc.]**
+- 🔭 Estou buscando minha primeira oportunidade como desenvolvedor.
 - 📫 Como me encontrar: **arthurnicolas30@gmail.com**
 
 ---
@@ -17,13 +17,14 @@ Sou um desenvolvedor e estudante de tecnologia, apaixonado por transformar ideia
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas do GitHub
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estatísticas de ArthurZ06 no GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZ06&layout=compact&langs_count=7&theme=dark)
 
 ---
 
 ### 📫 Contate-me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+<a href="mailto:arthurnicolas30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-nicolas-1091a4265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
