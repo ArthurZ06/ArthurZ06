@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor e estudante de tecnologia, apaixonado por criar soluções e transformar ideias em código. Atualmente, estou focado no ecossistema Web, trabalhando com as tecnologias que mais gosto.
 
-- 🌱 Atualmente estou aprendendo ** Python**
+- 🌱 Atualmente estou aprendendo **Python**
 - 🔭 Estou buscando minha primeira oportunidade como desenvolvedor.
 - 📫 Como me encontrar: **arthurnicolas30@gmail.com**
 
