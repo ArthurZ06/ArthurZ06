@@ -1,30 +1,40 @@
-# Olá, eu sou o Arthur! 👋
+printf("Hello, I'm Arthur")
 
-Sou um desenvolvedor e estudante de tecnologia, apaixonado por criar soluções e transformar ideias em código. Atualmente, estou focado no ecossistema Web, trabalhando com as tecnologias que mais gosto.
+Backend developer focused on Python, automation and Discord bots.
 
-- 🌱 Atualmente estou aprendendo **A criar um bot no discord**
-- 🔭 Estou buscando minha primeira oportunidade como desenvolvedor.
-- 📫 Como me encontrar: **arthurnicolas30@gmail.com**
+I enjoy building backend systems, automation tools and projects involving APIs while continuously improving my software development skills.
+
+Currently working on a Discord bot that delivers automated news updates directly to servers using scheduled tasks and API integrations.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## About me
+
+- I enjoy building backend systems and automation tools
+- My main focus is Python, APIs and Discord bot development
+- Programming is something I genuinely enjoy learning and improving every day
+
+---
+
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Current Focus
 
-![Estatísticas de ArthurZ06 no GitHub](https://github-readme-stats.vercel.app/api?username=ArthurZ06&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZ06&layout=compact&langs_count=7&theme=dark)
+- Backend development
+- Python automation
+- Discord bot development
+- API integrations
+- Software architecture and clean code
 
 ---
 
-### 📫 Contate-me
+## Contact
 
-<a href="mailto:arthurnicolas30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-nicolas-1091a4265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Email: arthurnicolas30@gmail.com
+- LinkedIn: linkedin.com/in/arthur-nicolas-1091a4265
