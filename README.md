@@ -35,7 +35,6 @@ I enjoy designing and building scalable backend applications, automating process
 
 ## Contact
 
-<p>
-  <a href="mailto:arthurnicolas30@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/arthur-nicolas-1091a4265/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a>
-</p>
+* 📧 Email: [arthurnicolas30@gmail.com](mailto:arthurnicolas30@gmail.com)
+* 💼 LinkedIn: [Arthur Nicolas](https://www.linkedin.com/in/arthur-nicolas-1091a4265/)
+
