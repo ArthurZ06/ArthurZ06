@@ -1,18 +1,17 @@
 printf("Hello, I'm Arthur")
 
-Backend developer focused on Python, automation and Discord bots.
+Backend Developer focused on Python, automation, API integrations and software architecture.
 
-I enjoy building backend systems, automation tools and projects involving APIs while continuously improving my software development skills.
-
-Currently working on a Discord bot that delivers automated news updates directly to servers using scheduled tasks and API integrations.
+I enjoy designing and building scalable backend applications, automating processes and developing solutions that integrate multiple services and technologies. I'm constantly improving my knowledge of software engineering, clean code and system design.
 
 ---
 
 ## About me
 
-- I enjoy building backend systems and automation tools
-- My main focus is Python, APIs and Discord bot development
-- Programming is something I genuinely enjoy learning and improving every day
+- Passionate about backend development and software engineering
+- Strong interest in automation, APIs and scalable systems
+- Continuously learning and improving development best practices
+- Experience building personal projects focused on real-world problem solving
 
 ---
 
@@ -27,14 +26,14 @@ Currently working on a Discord bot that delivers automated news updates directly
 ## Current Focus
 
 - Backend development
-- Python automation
-- Discord bot development
 - API integrations
-- Software architecture and clean code
+- Automation and process optimization
+- Software architecture
+- Clean code and best practices
 
 ---
 
 ## Contact
 
-- Email: arthurnicolas30@gmail.com
-- LinkedIn: linkedin.com/in/arthur-nicolas-1091a4265
+* 📧 Email: [arthurnicolas30@gmail.com](mailto:arthurnicolas30@gmail.com)
+* 💼 LinkedIn: [Arthur Nicolas](https://www.linkedin.com/in/arthur-nicolas-1091a4265/)
